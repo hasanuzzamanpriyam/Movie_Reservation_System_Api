@@ -68,7 +68,7 @@ The repository is organized into three main folders:
 
 The following UML diagram illustrates the database schema:
 
-![Database Schema]()
+![Database Schema](https://github.com/hasanuzzamanpriyam/Movie_Reservation_System_Api/blob/main/Docs/db_schema.png)
 
 ## User Authentication Flow
 
