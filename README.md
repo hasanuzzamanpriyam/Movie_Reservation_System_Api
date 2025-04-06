@@ -74,7 +74,7 @@ The following UML diagram illustrates the database schema:
 
 The sequence diagram below illustrates the user authentication process:
 
-![User Authentication Sequence]()
+![User Authentication Sequence](https://github.com/hasanuzzamanpriyam/Movie_Reservation_System_Api/blob/main/Docs/user_schema.png)
 6. **Run Migrations:**
 
    Run the following command to create the database schema:
